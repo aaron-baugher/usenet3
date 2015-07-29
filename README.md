@@ -11,4 +11,4 @@ So how could you do a:
 
 version of Usenet?
 
-I'll put further details into an ideas document or three.
+I'll put further details into an ideas document or three.  Calling it "usenet3" for now, since there was a Usenet 2 (or Usenet II) that never went anywhere.
