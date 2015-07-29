@@ -5,9 +5,9 @@ This is little more than the germ of an idea now, sparked in part by a <a href="
 
 So how could you do a:
 
-web-based (so people who know nothing but the browser can use it)
-distributed (so there isn't a single point of failure)
-modern (utf-8, secure, privacy-respecting, mobile)
+- web-based (so people who know nothing but the browser can use it)
+- distributed (so there isn't a single point of failure)
+- modern (utf-8, secure, privacy-respecting, mobile)
 
 version of Usenet?
 
