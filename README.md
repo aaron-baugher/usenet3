@@ -11,6 +11,6 @@ So how could you do a:
 
 version of Usenet?
 
-I'll put further details into an ideas document or three, on the wiki since I discovered it can be cloned and edited locally.  
+I'll put further details into an ideas document or three, <a href='https://github.com/aaron-baugher/usenet3/wiki'>on the wiki</a> since I discovered it can be cloned and edited locally.  
 
 Calling it "usenet3" for now, since there was already a Usenet 2 (or Usenet II) that never went anywhere.
